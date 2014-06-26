@@ -6,6 +6,21 @@ Goals of the Project
 
 To teach the process of developing electromagnetic trackers for research, to foster an open community of researchers developing electromagnetic trackers, to develop open-source software and open-source hardware for working research electromagnetic trackers interfacing to Slicer through [OpenIGTLink](http://openigtlink.org/).
 
+
+Contribute
+----------
+
+The easiest way to contribute is to [fork](https://help.github.com/articles/fork-a-repo) this repository and create a [pull request](https://help.github.com/articles/creating-a-pull-request). To learn about the process, consider reading the following pages:
+
+* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/index.html)
+
+* [Contributing to an open source project on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
+
+* [Forking a repository](https://help.github.com/articles/fork-a-repo)
+
+* [Creating a pull request](https://help.github.com/articles/creating-a-pull-request)
+
+
 References
 ----------
 

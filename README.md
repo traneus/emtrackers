@@ -24,7 +24,9 @@ The easiest way to contribute is to [fork](https://help.github.com/articles/fork
 References
 ----------
 
-* http://home.comcast.net/~traneus/dry_emtrackertricoil.htm
+* https://web.archive.org/web/20151002101401/http://home.comcast.net/~traneus/ has links to archived version of P.T. Anderson's tracker-related PhD dissertation, and also links to archived non-tracker-related material.
+
+* https://web.archive.org/web/20151002101401/http://home.comcast.net/~traneus/dry_emtrackertricoil.htm
 
 * [Project started at 2011 Summer Project Week](http://wiki.na-mic.org/Wiki/index.php/2011_Summer_project_Week_Open_Source_Electromagnetic_Trackers_using_OpenIGTLink)
 

@@ -40,6 +40,8 @@ References
 
 * Eugene Paperno, "Suppression of magnetic noise in the fundamental-mode orthogonal fluxgate", Elsevier, Sensors and Actuators A 116 (2004) 405-409. Picotesla noise in 20 mm long 1 mm diameter fluxgate magnetometer.
 
+* Anton Plotkin, Vladimir Kucher, Yoram Horen, and Eugene Paperno, "A New Calibration Procedure for Magnetic Tracking Systems", IEEE Transactions on Magnetics, Volume 44, Number 11, November 2008, Pages 4525 to 4528. In-system coil characterization using just receiver positions on the plane closest to the transmitter, which makes electromagnetic sense.
+
 Licensing
 =========
 

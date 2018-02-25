@@ -24,11 +24,15 @@ The easiest way to contribute is to [fork](https://help.github.com/articles/fork
 References
 ----------
 
+* When reading old tracker papers and expired patents, keep in mind the state of (or lack of) microprocessors as of the date of publication. Before the year 2000, EM trackers were generally compute-bound.
+
 * https://web.archive.org/web/20151002101401/http://home.comcast.net/~traneus/ has links to archived version of P.T. Anderson's tracker-related PhD dissertation, and also links to archived non-tracker-related material.
 
 * https://web.archive.org/web/20151002101401/http://home.comcast.net/~traneus/dry_emtrackertricoil.htm
 
 * [Project started at 2011 Summer Project Week](http://wiki.na-mic.org/Wiki/index.php/2011_Summer_project_Week_Open_Source_Electromagnetic_Trackers_using_OpenIGTLink)
+
+* Frederick H. Raab and Ernest B. Blood and Terry O. Steiner and Herbert R. Jones, "Magnetic Position and Orientation Tracking System", IEEE Transactions on Aerospace and Electronic Systems, vol. AES-15, no. 5, September, 1979, pages 709-718. Iterative solution for 6DOF tracker, very useful for sensitivity analysis.
 
 * Frederick H. Raab, "Quasi-Static Magnetic-Field Technique for Determining Position and Orientation", IEEE Transactions on Geoscience and Remote Sensing, Vol. GE-19, No. 4, October 1981, pages 235-243. Direct solution for 6DOF tracker.
 
@@ -52,5 +56,6 @@ All software is licensed under the 3-clause BSD License. See LICENSE_3-CLAUSE_BS
 All Works of Art are licensed under the Creative Commons by Attribution 4.0 License.
 See LICENSE_CC_BY_40 file for details.
 
+Last revision 25feb2018pta
 
 
